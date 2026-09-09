@@ -18,7 +18,7 @@ A lightweight Bash script to parse standard Web Server (Nginx / Apache) log file
 
 1. **Clone or download the repository:**
    ```bash
-   
+   git clone https://github.com/egah923/Log-Analyser.git
    cd log-analyser
 
 ```
@@ -60,10 +60,6 @@ Top 5 user agents:
     90 curl/7.68.0
 
 ```
-
-## License
-
-[MIT](https://www.google.com/search?q=LICENSE)
 
 ```
 
